@@ -23,7 +23,7 @@
       "KC_MINS",
       "KC_EQL",
       "KC_BSPC",
-      "KC_HOME",
+      "KC_INS",
       "KC_TAB",
       "KC_Q",
       "KC_W",
@@ -38,7 +38,7 @@
       "KC_LBRC",
       "KC_RBRC",
       "KC_BSLS",
-      "KC_END",
+      "KC_DEL",
       "KC_RALT",
       "KC_A",
       "KC_R",
@@ -77,7 +77,7 @@
       "KC_SPC",
       "KC_RALT",
       "KC_RGUI",
-      "KC_DEL",
+      "KC_APP",
       "KC_RCTL"
     ],
     [
