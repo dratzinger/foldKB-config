@@ -65,7 +65,7 @@
       "KC_DOT",
       "KC_SLSH",
       "KC_RSFT",
-      "MO(3)",
+      "TG(3)",
       "KC_DOWN",
       "KC_LCTL",
       "KC_LGUI",
@@ -297,7 +297,7 @@
       "KC_TRNS",
       "KC_TRNS",
       "KC_0",
-      "KC_TRNS",
+      "KC_COMM",
       "KC_TRNS",
       "KC_TRNS",
       "TG(1)"
