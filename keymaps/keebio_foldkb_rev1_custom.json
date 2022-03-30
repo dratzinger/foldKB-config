@@ -39,7 +39,7 @@
       "KC_RBRC",
       "KC_BSLS",
       "KC_DEL",
-      "KC_RALT",
+      "RALT_T(KC_BSPC)",
       "KC_A",
       "KC_R",
       "KC_S",
